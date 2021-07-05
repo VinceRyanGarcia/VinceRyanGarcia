@@ -1,4 +1,3 @@
-# VinceRyanGarcia
 ### Hello, I'm Vince Garcia, a Full Stack Web Developer👋
 - 🌱 I’m currently learning computer science in Python
 - 🥅 2020 Goals: Complete Lambda School and get an entry level position in Web Development
