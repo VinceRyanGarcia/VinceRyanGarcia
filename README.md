@@ -8,7 +8,7 @@
 - 🥅 2020 Goals: Complete Lambda School and get an entry level position in Web Development
 - ⚡ Fun fact: I'm Partnered Streamer with Twitch.tv
 
-### Connect with me:
+### Connect with me!:
 
 [<img align="left" style="margin-right: 1.5rem" alt="Portfolio" width="36px" src="assets\globe.svg" />][website]
 
