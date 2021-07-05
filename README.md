@@ -3,6 +3,7 @@ FUN FACTS!!!!
 - I originally discovered my passion for coding during Xanga and Myspace days
 - I got paid 5 dollars for coding a friends AOL Profile while I was in Jr High.
 - I'm Partnered Streamer with Twitch.tv
+- I like to Party :D
 
 ### Let's Connect?!:
 
