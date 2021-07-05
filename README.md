@@ -1,9 +1,5 @@
 # VinceRyanGarcia
 ### Hello, I'm Vince Garcia, a Full Stack Web Developer👋
-[![Website](https://img.shields.io/website?label=portfolio&style=for-the-badge&url=https%3A%2F%2Fpersonal-portfolio-cyan.vercel.app/)](https://www.vinceryangarcia.com)
-
-## I'm a Gamer, Quick Learner, and Full Stack Web Developer!!
-
 - 🌱 I’m currently learning computer science in Python
 - 🥅 2020 Goals: Complete Lambda School and get an entry level position in Web Development
 - ⚡ Fun fact: I'm Partnered Streamer with Twitch.tv
