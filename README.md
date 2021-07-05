@@ -1,7 +1,8 @@
 ### Hello, I'm Vince Garcia, a Full Stack Web Developer👋
-- 🌱 I’m currently learning computer science in Python
-- 🥅 2020 Goals: Complete Lambda School and get an entry level position in Web Development
-- ⚡ Fun fact: I'm Partnered Streamer with Twitch.tv
+FUN FACTS!!!!
+- I originally discovered my passion for coding during Xanga and Myspace days
+- I got paid 5 dollars for coding a friends AOL Profile while I was in Jr High.
+- I'm Partnered Streamer with Twitch.tv
 
 ### Let's Connect?!:
 
