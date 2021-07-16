@@ -1,4 +1,7 @@
 ### Hello, I'm Vince Garcia, a Full Stack Web Developer👋
+I'm a Jack of all Trades with experience in the gaming industry
+I was Partnered on Twitch.tv for hosting daily Pokemon Tournaments 
+I used to vend trading cards for a living prior to working for Konami 
 
 ### Let's Connect?!:
 
