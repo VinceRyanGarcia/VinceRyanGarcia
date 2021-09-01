@@ -1,6 +1,6 @@
 ### Hello, I'm Vince Garcia, a Full Stack Web Developer👋
 I'm a Jack of all Trades with experience in the gaming industry</br>
-I was Partnered on Twitch.tv for hosting daily Pokemon Tournaments</br>
+I am a Partnered on Twitch.tv for hosting daily Pokemon Tournaments</br>
 I enjoy taking typing tests. Peak 160WPM</br>
 I'm a DaNk mEmEr who loves Photoshop
 
