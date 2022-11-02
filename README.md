@@ -1,6 +1,3 @@
-### Hello, I'm Vince Garcia, a Full Stack Web Developer👋
-I'm a Jack of all Trades with experience in the gaming industry</br>
-
 ## Front End:
 
 ![HTML](https://img.shields.io/badge/HTML-2E3440?style=for-the-badge&logo=html5)
