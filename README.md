@@ -1,16 +1,5 @@
 ### Hello, I'm Vince Garcia, a Full Stack Web Developer👋
 I'm a Jack of all Trades with experience in the gaming industry</br>
-I am a Partnered on Twitch.tv for hosting daily Pokemon Tournaments</br>
-I enjoy taking typing tests. Peak 160WPM</br>
-I'm a DaNk mEmEr who loves Photoshop
-
-### Let's Connect?!:
-
-[<img align="left" style="margin-right: 1.5rem" alt="Portfolio" width="36px" src="assets\globe.svg" />][website]
-[<img align="left" style="margin-right: 1.5rem" alt="Protonmail" width="36px" src="assets\gmail.svg" />][protonmail]
-[<img align="left" style="margin-right: 1.5rem" alt="LinkedIn" width="36px" src="assets\031-linkedin.svg" />][linkedin]
-<br />
-
 
 ## Front End:
 
